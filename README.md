@@ -1,2 +1,2 @@
 # LeetCodeNotes
-记录一些leetcode刷题笔记。
+leetcode刷题笔记。
